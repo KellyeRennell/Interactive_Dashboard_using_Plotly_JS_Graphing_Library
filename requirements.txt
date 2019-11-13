@@ -11,5 +11,10 @@ python-dateutil==2.7.3
 pytz==2018.5
 six==1.11.0
 SQLAlchemy==1.2.10
+<<<<<<< HEAD
 Werkzeug==0.14.1
 gunicorn==20.0.0
+=======
+Werkzeug==0.15.3
+gunicorn==19.7.1
+>>>>>>> f7cc07edb864e4afc818850f0cb30b8c5c5c471c
