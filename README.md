@@ -1,6 +1,4 @@
-Belly Button Biodiversity - Interactive Dashboard using Plotly.JS Graphing Library
-
-Deployed at : 
+** Belly Button Biodiversity - Interactive Dashboard using Plotly.JS Graphing Library **
 
 Build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
