@@ -1,8 +1,7 @@
 **Belly Button Biodiversity - Creating Interactive Dashboards using the Plotly.JS Graphing Library**
 
-Build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
+Exploring the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/), creating an interactive dashboard utilizing the Plotly JS libary, and deploying the full stack application to Heroku.
 
-This is a full stack app data analysis assignment.
 
 **Step 1 - Plotly.js**
 
